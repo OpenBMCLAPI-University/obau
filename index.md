@@ -6,6 +6,10 @@ hero:
   name: "OpenBMCLAPI University"
   text: "The best university, ever"
   tagline: With powerful students and advanced teachers
+  actions:
+    - theme: brand
+      text: Getting Started
+      link: /guide/getting-started
 
 features:
   - title: Free
@@ -17,5 +21,15 @@ features:
   - title: bangbang93
     icon: 🐱
     details: We have more than 93 students here!
+  - title: Not Safe For Work
+    icon: ☠
+    details: Please take care of yourself while you are at school.
+  - title: Full Techology Stack
+    icon: 🌏
+    details: The teachers in the school know everything!
+  - title: Free Video Tutorial
+    icon: 📺
+    details: Learn through online videos!
+    link: https://wdf.ink/6OUp
 ---
 

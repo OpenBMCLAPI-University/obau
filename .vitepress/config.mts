@@ -8,6 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Guide', link: '/guide/getting-started', activeMatch: '/guide/' },
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/OpenBMCLAPI-University' }
